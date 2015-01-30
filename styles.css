@@ -1,0 +1,10 @@
+.type-shop_order .column-order_actions .print-preview-button.quote {
+  display: none;
+  background-color: #FFFFFF; }
+  .type-shop_order .column-order_actions .print-preview-button.quote:before {
+    content: "\e602";
+    color: #008000; }
+.type-shop_order.status-wc-processing .column-order_actions .print-preview-button.quote, .type-shop_order.status-wc-pending .column-order_actions .print-preview-button.quote {
+  display: block; }
+
+/*# sourceMappingURL=styles.css.map */
