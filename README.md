@@ -22,6 +22,10 @@ If you want to support this plugin, you can
 
 ## Changelog
 
+### 1.1.1
+
+* Fixed link to repository.
+
 ### 1.1
 
 * Compatibility with WooCommerce Print Invoice & Delivery Note 4.1.2
