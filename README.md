@@ -18,7 +18,7 @@ If you want to support this plugin, you can
 * Help to localize it
 * Create Pull Requests with useful features, improvements and bug fixes
 * [Purchase](http://codecanyon.net/user/scrobbleme/portfolio?ref=scrobbleme) my work at Envato
-* [Hire me](http://blog.scrobble.me) for a WordPress job
+* [Hire me](http://www.moewe.io/) for a WordPress job
 
 ## Changelog
 
